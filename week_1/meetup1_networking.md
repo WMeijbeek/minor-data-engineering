@@ -1,6 +1,6 @@
 # Meetup 1 - 13 February 2019
 
-## Networking with companies for the minor assignment
+# Networking with companies for the minor assignment
 
 # Barry Wildhagen, Senior product specialist at Informatica
 
