@@ -1,10 +1,14 @@
+---
+description: Meetup 1 notes
+---
+
 # Meetup 1 - 13 February 2019
 
 ## Barry Wildhagen, Senior product specialist at Informatica
 
 [Website Informatica](https://www.informatica.com/)
 
- Most important key aspect for Informatica is customer satisfaction.
+Most important key aspect for Informatica is customer satisfaction.
 
 **Assignment**
 
@@ -32,7 +36,7 @@ Analyse their AFAS system solution to think of innovative and effective solution
 
 **Assignment**
 
-Improving the system where information regarding the movements of ships are displayed. 
+Improving the system where information regarding the movements of ships are displayed.
 
 ## Stichting Boor
 
@@ -41,3 +45,4 @@ Improving the system where information regarding the movements of ships are disp
 **Assignment**
 
 They have a lot of data, the assignment is to figure something out to do with this data. Something that would be useful.
+
